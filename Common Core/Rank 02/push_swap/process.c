@@ -252,7 +252,6 @@ int findPos(lis **stack_a, int n)
 }
 
 
-// Radix Sort (Bitwise Version)
 int getMaxBits(lis *stack) {
     int max = 0;
     while (stack) {
